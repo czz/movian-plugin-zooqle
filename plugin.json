@@ -1,0 +1,14 @@
+{
+	"description": "<p>Zooqle beta version</a>",
+	"author": "czz78", 
+	"homepage": "https://github.com/czz/movian-plugin-zooqle",
+	"title": "Zooqle",
+	"synopsis": "zooqle",
+	"version": "0.0.1",
+        "file": "zooqle.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"id": "zooqle.tv",
+	"icon": "logo.png",
+	"category": "video"
+}
