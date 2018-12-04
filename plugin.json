@@ -8,7 +8,7 @@
         "file": "zooqle.js",
 	"showtimeVersion": "4.8",
 	"type": "ecmascript",
-	"id": "zooqle.tv",
+	"id": "zooqle",
 	"icon": "logo.png",
 	"category": "video"
 }
